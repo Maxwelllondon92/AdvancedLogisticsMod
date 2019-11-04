@@ -1,5 +1,5 @@
 ![logo](https://raw.githubusercontent.com/Maxwelllondon92/AdvancedLogisticsMod/master/Pics/AdvLog.png)
-This mod adds some new conveyor belts capable of greater throughput.
+This mod adds some new and enhanced Armored Conveyors and Phase Conveyor.
 
 ![prev](https://raw.githubusercontent.com/Maxwelllondon92/AdvancedLogisticsMod/master/Pics/prev.PNG)
 
@@ -12,3 +12,6 @@ This mod adds some new conveyor belts capable of greater throughput.
 ![](https://raw.githubusercontent.com/Maxwelllondon92/AdvancedLogisticsMod/master/Pics/conv4.PNG)
 
 ![](https://raw.githubusercontent.com/Maxwelllondon92/AdvancedLogisticsMod/master/Pics/epc.PNG)
+
+# Known Issues
+* Graphic glitches
