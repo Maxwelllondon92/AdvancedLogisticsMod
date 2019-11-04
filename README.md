@@ -1,7 +1,7 @@
 ![logo](https://raw.githubusercontent.com/Maxwelllondon92/AdvancedLogisticsMod/master/Pics/AdvLog.png)
 This mod adds some new and enhanced Armored Conveyors and Phase Conveyor.
 
-**[>>> Direct Download <<<](https://github.com/Maxwelllondon92/AdvancedLogisticsMod/raw/master/AdvLog.zip)**
+**[>>> Direct Download <<<](https://github.com/Maxwelllondon92/AdvancedLogisticsMod/raw/master/versions/AdvLog_v0.1.zip)**
 
 ![prev](https://raw.githubusercontent.com/Maxwelllondon92/AdvancedLogisticsMod/master/Pics/prev.PNG)
 
