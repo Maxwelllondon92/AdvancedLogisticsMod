@@ -1,0 +1,7 @@
+{
+	"type": "material",
+	"name": "Light Alloy",
+	"description": "A light material used in Logistics",
+	"cost": 0.75,
+	"color": "00CC00"
+}

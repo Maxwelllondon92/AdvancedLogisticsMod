@@ -1,0 +1,18 @@
+{
+	"type": "ItemBridge",
+	"name": "Enhanched Phase Conveyor",
+	"description": "While very power-hungry, this type of phase conveyors is suitable for very long ranges. [accent]'To infinity and beyond!'",
+		"consumes": {
+		"power": 2.0
+		},
+	"requirements": [
+		{"item": "lead", "amount": 50},
+		{"item": "graphite", "amount": 50},
+		{"item": "silicon", "amount": 10},
+		{"item": "phase-fabric", "amount": 10},
+		{"item": "surge-alloy", "amount": 10},
+	],
+	"category": "distribution",
+	"itemCapacity": 30,
+	"range": 1000
+}

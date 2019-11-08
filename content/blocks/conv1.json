@@ -1,0 +1,12 @@
+{
+	"type": "ArmoredConveyor",
+	"name": "Enhanced Conveyor",
+	"description": "An enhanced conveyor made with a light alloy. Higher item capacity. Very resistant.",
+	"requirements": [
+		{"item": "lightalloy", "amount": 3}
+	],
+	"category": "distribution",
+	"speed": 0.167,
+	"health":200,
+	"itemCapacity":6
+}

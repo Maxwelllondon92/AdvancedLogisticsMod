@@ -1,0 +1,12 @@
+{
+	"type": "ArmoredConveyor",
+	"name": "Plastic Conveyor",
+	"description": "A light conveyor made of plastics. Higher item capacity.",
+	"requirements": [
+		{"item": "plastanium", "amount": 2}
+	],
+	"category": "distribution",
+	"speed": 0.337,
+	"health":75,
+	"itemCapacity":7
+}

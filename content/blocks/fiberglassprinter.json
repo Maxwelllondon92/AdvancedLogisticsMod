@@ -1,0 +1,31 @@
+{
+	"type": "GenericCrafter",
+	"name": "Fiberglass Printer",
+	"description": "Lighter",
+	"liquidCapacity": 50,
+	"outputItem": {"item" : "fiberglass", "amount": 2.0},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"craftTime": 70,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 1.2,
+		"items": {
+			"items": [
+				{ "item": "metaglass", "amount": 2 }
+			]
+		},
+		"liquid": {
+			"liquid": "resin",
+			"amount": 0.1
+		}
+	    },
+	"requirements": [
+		{ "item": "copper", "amount": 200 },
+		{ "item": "titanium", "amount": 150 }
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

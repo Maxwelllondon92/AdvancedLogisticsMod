@@ -1,0 +1,12 @@
+{
+	"type": "ArmoredConveyor",
+	"name": "Carbon Fiber Conveyor",
+	"description": "Lightest conveyor made of carbon fiber. Higher item capacity. Very Fragile.",
+	"requirements": [
+		{"item": "carbonfiber", "amount": 3}
+	],
+	"category": "distribution",
+	"speed": 0.667,
+	"health":20,
+	"itemCapacity":10
+}

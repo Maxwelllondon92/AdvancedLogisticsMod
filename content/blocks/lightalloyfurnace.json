@@ -1,0 +1,28 @@
+{
+	"type": "GenericSmelter",
+	"name": "Light Alloy Furnace",
+	"description": "Light",
+	"outputItem": {"item": "lightalloy", "amount": 1.0},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": false,
+	"craftTime": 35,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 2.0,
+		"items":{
+		    "items":[
+		        {"item": "graphite", "amount":10},
+				{"item": "titanium", "amount":3}
+		        ]
+		}
+	},
+	"requirements": [
+		{ "item": "graphite", "amount": 80 },
+		{ "item": "lead", "amount": 115},
+		{ "item": "copper", "amount": 145}
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

@@ -1,0 +1,7 @@
+{
+	"type": "material",
+	"name": "Carbon Fiber",
+	"description": "A super-light material used in Logistics",
+	"cost": 3,
+	"color": "262626"
+}

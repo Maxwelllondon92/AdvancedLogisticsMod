@@ -1,0 +1,28 @@
+{
+	"type": "GenericSmelter",
+	"name": "Carbon Weaver",
+	"description": "Even lighter!",
+	"outputItem": {"item": "carbonfiber", "amount": 1.0},
+	"size": 3,
+	"hasPower": true,
+	"hasLiquids": false,
+	"craftTime": 70,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 3.5,
+		"items":{
+		    "items":[
+		        {"item": "silicon", "amount":5},
+				{"item": "fiberglass", "amount":2}
+		        ]
+		}
+	},
+	"requirements": [
+		{ "item": "metaglass", "amount": 80 },
+		{ "item": "silicon", "amount": 70},
+		{ "item": "copper", "amount": 120}
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

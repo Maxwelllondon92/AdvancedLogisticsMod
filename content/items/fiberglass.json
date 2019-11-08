@@ -1,0 +1,7 @@
+{
+	"type": "material",
+	"name": "Fiberglass",
+	"description": "A very light material used in Logistics",
+	"cost": 1.25,
+	"color": "E6E6E6"
+}

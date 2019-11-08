@@ -1,0 +1,12 @@
+{
+	"type": "ArmoredConveyor",
+	"name": "Fiberglass Conveyor",
+	"description": "A lighter conveyor made in fiberglass. High item capacity. Fragile. ",
+	"requirements": [
+		{"item": "fiberglass", "amount": 2}
+	],
+	"category": "distribution",
+	"speed": 0.5,
+	"health":40,
+	"itemCapacity":8
+}

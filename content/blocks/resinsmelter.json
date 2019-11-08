@@ -1,0 +1,24 @@
+{
+	"type": "GenericCrafter",
+	"name": "Resin smelter",
+	"description": "Melts plastanium to make resin",
+	"liquidCapacity": 50,
+	"outputLiquid": {"liquid": "resin", "amount": 5.0},
+	"size": 1,
+	"hasPower": true,
+	"hasLiquids": true,
+	"craftTime": 35,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 2.0,
+		"item": "plastanium"
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 120 },
+		{ "item": "thorium", "amount": 40 },
+		{ "item": "silicon", "amount": 40}
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}
