@@ -23,6 +23,7 @@
 		{ "item": "copper", "amount": 145}
 	],
 	"category": "crafting",
+	"research": "resinsmelter",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }

@@ -24,5 +24,6 @@
 	],
 	"category": "crafting",
 	"idleSound": "respawning",
+	"research": "fiberglassprinter",
 	"idleSoundVolume": 0.5
 }

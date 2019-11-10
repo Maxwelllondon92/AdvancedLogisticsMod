@@ -8,5 +8,6 @@
 	"category": "distribution",
 	"speed": 0.5,
 	"health":40,
+	"research": "plastic-conveyor",
 	"itemCapacity":8
 }

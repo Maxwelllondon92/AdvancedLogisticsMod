@@ -8,5 +8,6 @@
 	"category": "distribution",
 	"speed": 0.667,
 	"health":20,
+	"research": "fiberglass-conveyor",
 	"itemCapacity":10
 }

@@ -27,5 +27,6 @@
 	],
 	"category": "crafting",
 	"idleSound": "respawning",
+	"research": "lightalloyfurnace",
 	"idleSoundVolume": 0.5
 }

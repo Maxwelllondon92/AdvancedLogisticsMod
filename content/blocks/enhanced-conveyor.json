@@ -8,5 +8,6 @@
 	"category": "distribution",
 	"speed": 0.167,
 	"health":200,
+	"research": "armored-conveyor",
 	"itemCapacity":6
 }

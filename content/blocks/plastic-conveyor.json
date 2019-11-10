@@ -8,5 +8,6 @@
 	"category": "distribution",
 	"speed": 0.337,
 	"health":75,
+	"research": "enhanced-conveyor",
 	"itemCapacity":7
 }
